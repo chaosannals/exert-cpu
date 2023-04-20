@@ -12,6 +12,10 @@ fgpa
 
 注：Run All 的时候不会自动保存，所以要记得保存文件，再 Run All 编译。
 
+### [Sipeed](https://www.sipeed.com/) 荔枝糖 nano 20k (lichee tang nano 20k)
+
+使用高云 GW2A-LV18，
+
 ## IDE
 
 ### gowin ide
